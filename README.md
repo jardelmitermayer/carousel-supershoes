@@ -1,4 +1,4 @@
-<p align="center"><a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="300"></a></p>
+<p align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="300"></a></p>
 
 
 ## Sobre o projeto
